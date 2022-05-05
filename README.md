@@ -6,3 +6,4 @@
 3. [Lab3 - Classification](./Lab3_Classification)
 4. [Lab4 - Trees](./Lab4_Trees)
 5. [Lab5 - CatBoost](./Lab5_CatBoost)
+6. [Lab6 - Linear_model](./Lab6_Linear_models)
